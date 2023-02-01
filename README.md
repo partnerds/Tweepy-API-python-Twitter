@@ -1,4 +1,4 @@
-# Tweepy-API-API-python-Twitter
+# Tweepy-API-python-Twitter
 
 Para poder utilizar esta API tienes que darte de alta en Twitter developers y pedir autorizacion dependiendo del permiso que necesites. El video completo del paso a paso lo dejé en mi canal de youtube https://youtu.be/8vlFxOHGX34
 
